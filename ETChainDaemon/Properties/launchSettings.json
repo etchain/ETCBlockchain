@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AntSharesDaemon": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\SWork\\20170625\\ETChain\\AntSharesDaemon\\bin\\Debug\\netcoreapp1.0"
+    }
+  }
+}
